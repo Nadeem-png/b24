@@ -52,8 +52,35 @@ border-radius:7px 0 0 0;
         width:100%;
         border-radius:10px;
 }
-
+.div5{
+    border-radius:7px;
+}
 </style>
+
+<div class="container container-sm mt-5">
+<h2 class="text-center text-white">Mining Bitcoins for a brighter future</h2>
+<div class="row">
+<div class="col-12 col-lg-6 mt-5 text-center">
+<h6 class="bg-white py-2 px-3 text-black  div5 font-weight-bold">Only $ 0.04/kWh electricity cost</h6>
+<h6 class="bg-white py-2 px-3 text-black div5 font-weight-bold">Colocation in Iceland & Kazakhstan</h6>
+<h6 class="bg-white py-2 px-3 text-black div5 font-weight-bold">Over 1200 mining devices</h6>
+<h6 class="bg-white py-2 px-3 text-black div5 font-weight-bold">Paralell fail-safes for each miner</h6>
+
+</div>
+
+<div class="col-12 col-lg-6 mt-5">
+<h5 class="text-start text-color">
+The possibility to mine your own currency should fascinate everyone! Decentralised and with maximum freedom and no limits. That is why we offer cloud mining devices with high computing power at a lucrative price. No hidden costs or fees, simple, secure 
+and without any waiting time! Directly from home, just a few clicks away.</h5>
+<a href=""><h5 class="text-white">Special Gift – 850 GH/s for free</h5></a>
+</div>
+</div>
+
+
+
+</div>
+
+
 
 <div class="container mt-5 div4" >
 <div class="container">
