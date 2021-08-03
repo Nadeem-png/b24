@@ -36,7 +36,7 @@ power reduces the cost return periods and increases the amount of
 <div class="container container-sm mt-5">
 <h2 class="text-white text-center">Get more hardware power and pay less</h2>
 <div class="row mt-5">
-<div class="col-12 col-lg-4">
+<div class="col-12 col-lg-4 mb-3">
 <div class="card h-100 card1 p-4">
   <div class="card-body">
     <em><h6 class="text-center card-text text-color">MINIMUM POWER</h6></em>
@@ -89,7 +89,7 @@ Approximate return on cost: <strong>12 days</strong>
 </div>
 </div>
 
-<div class="col-12 col-lg-4">
+<div class="col-12 col-lg-4 mb-3">
 <div class="card h-100 card1 p-4">
   <div class="card-body">
     <em><h6 class="text-center card-text text-color">YOUR POWER</h6></em>
@@ -143,7 +143,7 @@ Approximate return on cost: <strong>12 days</strong>
 </div>
 
 
-<div class="col-12 col-lg-4">
+<div class="col-12 col-lg-4 mb-3">
 <div class="card h-100 card1 p-4">
   <div class="card-body">
     <em><h6 class="text-center card-text text-color">MINIMUM POWER</h6></em>
