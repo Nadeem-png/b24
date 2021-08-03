@@ -204,12 +204,12 @@ $(document).ready(function(){
 <div class="row">
 <div class="col-6 col-lg-3 col-md-6">
 <ul class="text-white ul mt-5 m-0 p-0" style="list-style-type:none;">
-<li class="mb-3"><a href="/about" style="text-decoration:none" class="text-white ">Home</a></li>
-<li class="mb-3"><a href="/service" style="text-decoration:none" class="text-white ">Pricing</a></li>
-<li class="mb-3"><a href="/gallery" style="text-decoration:none" class="text-white ">Partnership</a></li>
-<li class="mb-3"><a href="/contact" style="text-decoration:none" class="text-white ">Help</a></li>
-<li class="mb-3"><a href="/contact" style="text-decoration:none" class="text-white ">Company</a></li>
-<li class="mb-3"><a href="/contact" style="text-decoration:none" class="text-white ">Terms & Condition</a></li>
+<li class="mb-3"><a href="/" style="text-decoration:none" class="text-white ">Home</a></li>
+<li class="mb-3"><a href="/pricing" style="text-decoration:none" class="text-white ">Pricing</a></li>
+<li class="mb-3"><a href="/partnership" style="text-decoration:none" class="text-white ">Partnership</a></li>
+<li class="mb-3"><a href="/help" style="text-decoration:none" class="text-white ">Help</a></li>
+<li class="mb-3"><a href="/company" style="text-decoration:none" class="text-white ">Company</a></li>
+<li class="mb-3"><a href="/term" style="text-decoration:none" class="text-white ">Terms & Condition</a></li>
 </ul>
 </div>
 <div class="col-6 col-lg-3 col-md-6 ">

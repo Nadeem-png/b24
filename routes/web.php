@@ -28,4 +28,7 @@ Route::get('/pricing', function () {
 Route::get('/company', function () {
     return view('company');
 });
+Route::get('/term', function () {
+    return view('term');
+});
 
