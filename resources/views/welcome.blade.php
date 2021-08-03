@@ -1,6 +1,7 @@
 @extends('master/layout')
 @section('content')
 <style>
+
 .btn-white{
     background-color:white;
 }
@@ -31,6 +32,7 @@ border-left:1px solid #919191;
 border-radius:7px 0 0 0;
 
 }
+
 .bg{
     background-color:#2b2b2b;
 
@@ -42,8 +44,45 @@ border-radius:7px 0 0 0;
     border-radius:7px;
     background-color:#12171A;
 }
+.div4{
+    background-image:url({{asset('image/datacenter-iceland.jpg')}});
+    background-repeat: no-repeat;
+        background-size: cover;
+        height:auto;
+        width:100%;
+        border-radius:10px;
+}
 
 </style>
+
+<div class="container mt-5 div4" >
+<div class="container">
+<h2 class="text-center py-4 text-white">Top technology with low electricity costs</h2>
+<div class="row">
+<div class="col-6 col-lg text-center text-white mt-4 mb-4">
+<h5 class="mb-3">12 nm</h5>
+<h5>Processor chip size</h5>
+</div>
+<div class="col-6 col-lg text-center text-white mt-4 mb-4">
+<h5 class="mb-3">118.5 TH/s</h5>
+<h5>Max Power per Device</h5>
+</div>
+<div class="col-6 col-lg text-center text-white mt-4 mb-4">
+<h5 class="mb-3">$ 0.04/kWh</h5>
+<h5>Electricity costs</h5>
+</div>
+<div class="col-6 col-lg text-center text-white mt-4 mb-4">
+<h5 class="mb-3">1200+</h5>
+<h5>Total Mining Devices</h5>
+</div>
+<div class="col-6 col-lg text-center text-white mt-4 mb-4">
+<h5 class="mb-3">3750 W</h5>
+<h5>Power Supply</h5>
+</div>
+</div>
+</div>
+
+</div>
 <div class="container container-sm mt-5">
 <div class="row">
 <div class="col-12 col-lg-6">

@@ -77,6 +77,14 @@
 .bor{
     border:5px solid #2b2b2b;
 }
+.header{
+    background-image:url({{asset('image/hero.jpg')}});
+    background-repeat: no-repeat;
+        background-size: cover;
+        height:600px;
+        width:100%;
+}
+
 
 
             
@@ -106,6 +114,7 @@ $(document).ready(function(){
 </script>
 </head>
 <body class="bg-black text-gray bg-stroke-text" style="background-color:#12171A">
+<header class="header">
 <nav class="navbar nav1   navbar-expand-lg"style=" padding:8px 8px;">
 <div class="w-25">
         <a href="/" class="navbar-brand">
@@ -145,7 +154,7 @@ $(document).ready(function(){
         </ul>
     </div>
 </nav>
-
+</header>
 @yield('content')
 
 <!-- Back to top -->
