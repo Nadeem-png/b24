@@ -81,7 +81,8 @@
     background-image:url({{asset('image/hero.jpg')}});
     background-repeat: no-repeat;
         background-size: cover;
-        height:600px;
+        position:center;
+        height:570px;
         width:100%;
 }
 
@@ -129,19 +130,19 @@ $(document).ready(function(){
                     <a href="/" class="nav-link a1   ml-5 font-weight-bold">Home</a>
                 </li>
             <li class="nav-item" @yield('navb')>
-                <a href="/service" class="nav-link a1 ml-5 font-weight-bold">Partnership</a>
+                <a href="/partenership" class="nav-link a1 ml-5 font-weight-bold">Partnership</a>
             </li>
 
             <li class="nav-item" @yield('navc')>
-                <a href="/about" class="nav-link a1 ml-5 font-weight-bold">Pricing</a>
+                <a href="/pricing" class="nav-link a1 ml-5 font-weight-bold">Pricing</a>
             </li>
 
             <li class="nav-item" @yield('navd')>
-                <a href="/contact" class="nav-link a1 ml-5 font-weight-bold">Company</a>
+                <a href="/company" class="nav-link a1 ml-5 font-weight-bold">Company</a>
             </li>
 
             <li class="nav-item" @yield('nave')>
-                <a href="/gallery" class="nav-link a1 ml-5 font-weight-bold">Help</a>
+                <a href="/help" class="nav-link a1 ml-5 font-weight-bold">Help</a>
             </li>
             <li class="nav-item" @yield('navf')>
                 <a href="/whatsapp" class="nav-link a1 ml-5 font-weight-bold">Log In</a>
@@ -154,6 +155,20 @@ $(document).ready(function(){
         </ul>
     </div>
 </nav>
+<div class=" ml-3 mt-3">
+<span class="text-white font-weight-bold mr-2">Currency</span>
+<select class="select py-1 px-4  " >
+
+<option value="" selected>BTC</option>
+<option value="">EUR</option>
+<option value="">GBP</option>
+<option value="">INR</option>
+<option value="">RUB</option>
+<option value="">USD</option>
+
+</select>
+</div>
+
 </header>
 @yield('content')
 
