@@ -38,8 +38,9 @@ border-radius:7px 0 0 0;
 
 }
 .bg1{
-    border:13px solid #2b2b2b;
+    border:15px solid #2b2b2b;
     border-radius:7px;
+    background-color:#12171A;
 }
 
 </style>
@@ -69,16 +70,16 @@ Through carefully planned and calculated hardware
 
 <div class="col-12 col-lg-6 mt-5">
 <div class="row">
-<div class="col-4   mb-4 ">
-<div class="card bg1 text-center p-3">
+<div class="col-6   mb-4 ">
+<div class="card bg1 h-100 text-center p-2">
   <div class="card-body">
     <em><p class="text-color card-text ">MINED BITCOINS</p></em>
 <h3 class="text-white card-text">8.6346 BTC</h3>
   </div>
 </div>
 </div>
-<div class="col-4    mb-4">
-<div class="card text-center bg p-3">
+<div class="col-6    mb-4">
+<div class="card text-center h-100 bg p-2">
   <div class="card-body">
     <em><p class="text-color catd-text">MAX POWER CAPACITY</p></em>
 <h3 class="text-white card-text">12400000.0 TH/s</h3>
@@ -88,16 +89,16 @@ Through carefully planned and calculated hardware
 </div>
 
 <div class="row">
-<div class="col-4  mb-4 ">
-<div class="card text- center bg p-3">
+<div class="col-6  mb-4 ">
+<div class="card text-center h-100 bg p-2">
   <div class="card-body">
     <em><p class="text-color card-text ">MINER UPTIME</p></em>
 <h3 class="text-white card-text">8 days</h3>
   </div>
 </div>
 </div>
-<div class="col-4 mb-4">
-<div class="card bg1 text-center p-3 ">
+<div class="col-6 mb-4">
+<div class="card bg1 text-center h-100 p-2 ">
   <div class="card-body">
     <em><p class="text-color card-text ">TOTAL USED POWER</p></em>
 <h3 class="text-white catd-text">352357.1 TH/s</h3>
@@ -107,16 +108,16 @@ Through carefully planned and calculated hardware
 </div>
    
 <div class="row">
-<div class="col-4  mb-4">
-<div class="card text-center bg1 p-3">
+<div class="col-6  mb-4">
+<div class="card text-center h-100 bg1 p-2">
   <div class="card-body">
     <em><p class="text-color card-text ">USER WITHDRAWALS</p></em>
 <h3 class="text-white card-text">6.2725 BTC</h3>
   </div>
 </div>
 </div>
-<div class="col-4  mb-4">
-<div class="card bg p-3 text-center">
+<div class="col-6  mb-4">
+<div class="card bg p-2 h-100 text-center">
   <div class="card-body">
     <em><p class="text-color card-text">TOTAL USERS</p></em>
 <h3 class="text-white card-text">127968</h3>
