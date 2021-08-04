@@ -55,19 +55,7 @@ border-radius:7px 0 0 0;
 .div5{
     border-radius:7px;
 }
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  width: 100%;
-  border: 1px solid #ddd;
-}
 
-th, td {
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even){background-color: #f2f2f2}
 </style>
 
 <div class="container container-sm mt-5">
@@ -248,8 +236,8 @@ any comments or errors, please do not hesitate to email our team.</p>
 
 <h2 class="text-center text-white mt-5 mb-5">Mining Bitcoins for a brighter future</h2>
 
-<div style="overflow-x:auto;">
-  <table>
+div class="table-responsive">
+  <table class="table">
     <tr>
       <th>First Name</th>
       <th>Last Name</th>
