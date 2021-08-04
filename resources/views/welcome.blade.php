@@ -250,7 +250,7 @@ any comments or errors, please do not hesitate to email our team.</p>
 <div class="table-responsive-sm table-responsive-md table-responsive-lg">
   <table class="table table-striped  text-center ">
   <thead> <!-- Column names -->
-    <tr class="text-white">
+    <tr class="text-white border py-2 px-5">
       <th>User</th>
       <th>Payout Value</th>
       <th>Date</th>
@@ -259,7 +259,7 @@ any comments or errors, please do not hesitate to email our team.</p>
   </tr>
  </thead>
  <tbody>
-   <tr class="text-white ">
+   <tr class="text-white border py-2 px-5">
       <td>s****796</td>
       <td>1141.90 RUB</td>
       <td>Aug 04, 2021, 06:27 PM</td>
