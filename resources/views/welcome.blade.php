@@ -235,21 +235,21 @@ any comments or errors, please do not hesitate to email our team.</p>
 </div>
 
 <div class=" container container-sm mt-5">
-<h2 class="text-center text-white  mb-5">Mining Bitcoins for a brighter future</h2>
+<h2 class="text-center text-white  mb-5">Recent User Payouts</h2>
 
 <div class="table-responsive-sm">
-  <table class="table table-striped table-dark">
+  <table class="table table-striped table-dark px-4 py-2">
     <tr class="text-white">
-      <th>First Name</th>
-      <th>Last Name</th>
-      <th>Points</th>
-      <th>Points</th>
+      <th>User</th>
+      <th>Payout Value</th>
+      <th>Date</th>
+      <th>Transaction link </th>
    
   </tr>
-    <tr class="text-white">
-      <td>Jill</td>
-      <td>Smith</td>
-      <td>50</td>
+    <tr class="text-white ">
+      <td>s****796</td>
+      <td>1141.90 RUB</td>
+      <td>Aug 04, 2021, 06:27 PM</td>
 <td>50</td>
 </tr>
 </table>
