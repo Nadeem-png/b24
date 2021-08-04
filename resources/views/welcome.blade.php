@@ -236,8 +236,8 @@ any comments or errors, please do not hesitate to email our team.</p>
 
 <h2 class="text-center text-white mt-5 mb-5">Mining Bitcoins for a brighter future</h2>
 
-div class="table-responsive">
-  <table class="table">
+div class="table-responsive-sm">
+  <table class="table text-white">
     <tr>
       <th>First Name</th>
       <th>Last Name</th>
@@ -250,7 +250,7 @@ div class="table-responsive">
       <td>Smith</td>
       <td>50</td>
 <td>50</td>
-<tr>
+</tr>
 </table>
 </div>
 
