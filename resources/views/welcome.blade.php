@@ -55,9 +55,19 @@ border-radius:7px 0 0 0;
 .div5{
     border-radius:7px;
 }
+.table{
+    background-color:#2b2b2b;
+    overflow-x:auto;
+    border:none;
+}
 
 </style>
+ <div class="container  bg  p-3  ">
+ <h2 class="italic  text-white ml-4 ">Sign up now & receive exclusively 850 GH/s for free
+ <a href="" class="btn text-dark py-2 px-5 rounded-pill" style="background:white">Sign Up</a>
+ </h2>
 
+ </div>
 <div class="container container-sm mt-5">
 <h2 class="text-center text-white">Mining Bitcoins for a brighter future</h2>
 <div class="row">
@@ -237,8 +247,9 @@ any comments or errors, please do not hesitate to email our team.</p>
 <div class=" container container-sm mt-5">
 <h2 class="text-center text-white  mb-5">Recent User Payouts</h2>
 
-<div class="table-responsive-sm">
-  <table class="table table-striped table-dark px-4 py-2">
+<div class="table-responsive-sm table-responsive-md table-responsive-lg">
+  <table class="table table-striped  text-center ">
+  <thead> <!-- Column names -->
     <tr class="text-white">
       <th>User</th>
       <th>Payout Value</th>
@@ -246,12 +257,16 @@ any comments or errors, please do not hesitate to email our team.</p>
       <th>Transaction link </th>
    
   </tr>
-    <tr class="text-white ">
+ </thead>
+ <tbody>
+   <tr class="text-white ">
       <td>s****796</td>
       <td>1141.90 RUB</td>
       <td>Aug 04, 2021, 06:27 PM</td>
-<td>50</td>
+<td><a href="" class="btn  rounded-pill" style="background:white"> check on <strong>Blockchain.com</strong></a></td>
 </tr>
+ </tbody>
+  
 </table>
 </div>
 </div>
