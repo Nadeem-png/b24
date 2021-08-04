@@ -251,19 +251,19 @@ any comments or errors, please do not hesitate to email our team.</p>
   <table class="table table-striped  text-center ">
   <thead> <!-- Column names -->
     <tr class="text-white">
-      <th class="w-50 ">User</th>
-      <th class="w-50 ">Payout Value</th>
-      <th class="w-50 ">Date</th>
-      <th class="w-50 ">Transaction link </th>
+      <th class="w-100 py-2 px-5 ">User</th>
+      <th class="w-100 py-2 px-5 ">Payout Value</th>
+      <th class="w-100 py-2 px-5 ">Date</th>
+      <th class="w-100 py-2 px-5  ">Transaction link </th>
    
   </tr>
  </thead>
  <tbody>
    <tr class="text-white ">
-      <td class="w-50 " >s****796</td>
-      <td class="w-50 ">1141.90 RUB</td>
-      <td class="w-50 " >Aug 04, 2021, 06:27 PM</td>
-<td class="w-50 "><a href="" class="btn  rounded-pill" style="background:white"> check on <strong>Blockchain.com</strong></a></td>
+      <td class="w-100 py-2 px-5" >s****796</td>
+      <td class=" w-100 py-2 px-5">1141.90 RUB</td>
+      <td class="w-100 py-2 px-5" >Aug 04, 2021, 06:27 PM</td>
+<td class="w-100 py-2 px-5 "><a href="" class="btn  rounded-pill" style="background:white"> check on <strong>Blockchain.com</strong></a></td>
 </tr>
  </tbody>
   
