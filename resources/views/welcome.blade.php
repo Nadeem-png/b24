@@ -234,24 +234,26 @@ any comments or errors, please do not hesitate to email our team.</p>
 </div>
 </div>
 
-<h2 class="text-center text-white mt-5 mb-5">Mining Bitcoins for a brighter future</h2>
+<div class=" container container-sm mt-5">
+<h2 class="text-center text-white  mb-5">Mining Bitcoins for a brighter future</h2>
 
-div class="table-responsive-sm">
-  <table class="table text-white">
-    <tr>
+<div class="table-responsive-sm">
+  <table class="table table-striped table-dark">
+    <tr class="text-white">
       <th>First Name</th>
       <th>Last Name</th>
       <th>Points</th>
       <th>Points</th>
    
   </tr>
-    <tr>
+    <tr class="text-white">
       <td>Jill</td>
       <td>Smith</td>
       <td>50</td>
 <td>50</td>
 </tr>
 </table>
+</div>
 </div>
 
 <div class="container container-sm  text-center">
