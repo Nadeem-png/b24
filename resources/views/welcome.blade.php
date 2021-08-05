@@ -2,6 +2,12 @@
 @section('content')
 <style>
 
+.rounded-circle{
+border:3px solid #919191;
+
+
+}
+
 .btn-white{
     background-color:white;
 }
@@ -60,8 +66,30 @@ border-radius:7px 0 0 0;
     overflow-x:auto;
     border:none;
 }
+.margin{
+    margin-top:-350px;
+}
 
 </style>
+
+<div class="container container-sm  margin">
+<div class="row">
+  
+<div class="col-12 col-lg-3 text-center mb-4">
+<div class=" "><i class="far fa-star fa-3x text-white"></i></div>
+</div>
+<div class="col-12 col-lg-6 text-center  mb-4">
+<h5 class="text-color text-start">High Class Premium</h5>
+<h1 class="text-white ">
+Bitcoin Mining</h1>
+<h5 class="text-color text-end" >from Iceland</h5>
+</div>
+<div class="col-12 col-lg-3 text-center mb-4">
+<span class=" "><i class="far fa-gem fa-3x text-white text-center"></i></span>
+</div>
+</div>
+</div>
+
  <div class="container  bg  p-3  ">
  <h2 class="italic  text-white ml-4 ">Sign up now & receive exclusively 850 GH/s for free
  <a href="" class="btn text-dark py-2 px-5 rounded-pill" style="background:white">Sign Up</a>
