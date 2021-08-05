@@ -32,7 +32,7 @@
              .navbar-nav{
             
             z-index:9999;
-            background-color:;
+            background-color: black;
             }
            .navbar-collapse{
             
@@ -116,7 +116,7 @@ $(document).ready(function(){
 </head>
 <body class="bg-black text-gray bg-stroke-text" style="background-color:#12171A">
 <header class="header">
-<nav class="navbar nav1   navbar-expand-lg"style=" padding:8px 8px;">
+<nav class="navbar nav1   navbar-expand-lg" style=" padding:8px 8px;">
 <div class="w-25">
         <a href="/" class="navbar-brand">
             <img src="{{asset('image/logo.svg')}}" class="img-fluid " width="85" height="44" alt="Logo"  style="margin-left:10px">
@@ -206,7 +206,7 @@ $(document).ready(function(){
 <ul class="text-white ul mt-5 m-0 p-0" style="list-style-type:none;">
 <li class="mb-3"><a href="/" style="text-decoration:none" class="text-white ">Home</a></li>
 <li class="mb-3"><a href="/pricing" style="text-decoration:none" class="text-white ">Pricing</a></li>
-<li class="mb-3"><a href="/partnership" style="text-decoration:none" class="text-white ">Partnership</a></li>
+<li class="mb-3"><a href="/partenership" style="text-decoration:none" class="text-white ">Partnership</a></li>
 <li class="mb-3"><a href="/help" style="text-decoration:none" class="text-white ">Help</a></li>
 <li class="mb-3"><a href="/company" style="text-decoration:none" class="text-white ">Company</a></li>
 <li class="mb-3"><a href="/term" style="text-decoration:none" class="text-white ">Terms & Condition</a></li>
