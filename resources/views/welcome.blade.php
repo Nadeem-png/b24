@@ -276,22 +276,28 @@ any comments or errors, please do not hesitate to email our team.</p>
 <h2 class="text-center text-white  mb-5">Recent User Payouts</h2>
 
 <div class="table-responsive-sm table-responsive-md table-responsive-lg">
-  <table class="table table-striped  text-center ">
+  <table class="table table-striped  text-center  ">
   <thead> <!-- Column names -->
     <tr class="text-white">
-      <th class="w-100 py-2 px-5 ">User</th>
-      <th class="w-100 py-2 px-5 ">Payout Value</th>
-      <th class="w-100 py-2 px-5 ">Date</th>
-      <th class="w-100 py-2 px-5  ">Transaction link </th>
+      <th class="">User</th>
+      <th class="">Payout Value</th>
+      <th class="">Date</th>
+      <th class="">Transaction link </th>
    
   </tr>
  </thead>
- <tbody>
-   <tr class="text-white ">
-      <td class="w-100 py-2 px-5" >s****796</td>
-      <td class=" w-100 py-2 px-5">1141.90 RUB</td>
-      <td class="w-100 py-2 px-5" >Aug 04, 2021, 06:27 PM</td>
-<td class="w-100 py-2 px-5 "><a href="" class="btn  rounded-pill" style="background:white"> check on <strong>Blockchain.com</strong></a></td>
+ <tbody class="text-white text-center ">
+   <tr >
+      <td class=" " >s****796</td>
+      <td class="">1141.90 RUB</td>
+      <td class=" " >Aug 04, 2021, 06:27 PM</td>
+<td class=" "><a href="" class="btn " style="background:white">check on <strong>Blockchain.com</strong></a></td>
+</tr>
+<tr >
+      <td class="" >s****796</td>
+      <td class="">1141.90 RUB</td>
+      <td class="" >Aug 04, 2021, 06:27 PM</td>
+<td class=" "><a href="" class="btn " style="background:white">check on <strong>Blockchain.com</strong></a></td>
 </tr>
  </tbody>
   
